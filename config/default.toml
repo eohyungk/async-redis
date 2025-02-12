@@ -1,0 +1,8 @@
+[redis]
+url = "redis://127.0.0.1/"
+pool_size = 5
+
+[stream]
+name = "my_stream"
+batch_size = 10
+block_ms = 5000
