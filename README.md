@@ -2,7 +2,6 @@
 
 A deep dive into asynchronous stream processing using Rust's type system and Redis Streams
 
-![Cover Image: Rust and Redis logos]
 
 ## Introduction
 
