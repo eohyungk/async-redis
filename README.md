@@ -5,7 +5,7 @@ A deep dive into asynchronous stream processing using Rust's type system and Red
 
 ## Introduction
 
-Real-time stream processing is a fundamental component of modern distributed systems. In this article, I'll walk through building a type-safe, efficient stream processor using Rust and Redis Streams. We'll explore how Rust's ownership system and async capabilities combine with Redis's stream features to create a robust message processing system.
+Real-time stream processing is a fundamental component of modern distributed systems. This project aims to provide a type-safe, efficient stream processor using Rust and Redis Streams. We'll explore how Rust's ownership system and async capabilities combine with Redis's stream features to create a robust message processing system.
 
 ## The Technical Stack
 
